@@ -1,0 +1,2 @@
+include ':app', ':libraryrangeseekbar'
+rootProject.name='RangeSeekbar'
