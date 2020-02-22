@@ -1,3 +1,3 @@
 # RangeSeekbar
 
-This is a android native library for range seekbar.
+This is a android native library written in java.
